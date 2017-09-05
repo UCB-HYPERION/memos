@@ -59,10 +59,10 @@ location -- where the instrument will be deployed to do the science it is
 designed to accomplish. Since its inception, there has been frequent discussion 
 of using a site near Rangely, Colorado -- a tiny town in northwestern Colorado, 
 far removed from most typical sources of radio transmission and peppered with 
-convenient geology. With low RFI and a somewhat quieter radio sky, it seemed 
+convenient topology. With low RFI and a somewhat quieter radio sky, it seemed 
 like an ideal candidate in theory. So, we put it to the test -- what does the 
 radio environment around Rangely actually look like in the HYPERION frequency 
-band? And, assuming it's a good starting point, how can we optimize it to our 
+band?  And, assuming it's a good starting point, how can we optimize it to our 
 peculiar needs?
 
 To answer these questions, a series of three tests were conducted: one in the 
@@ -81,6 +81,19 @@ spectrum for each recording.
 
 \citep{pritchard-loeb2010}
 
+\subsection{Receiver Noise and System Temperature}
+
+In order to determine the overall system temperature of the Rangely, CO 
+deployment system, we will first need to know the receiver noise temperature, 
+$T_{rx}$, i.e.  the noise that would be added at the amplifier's input in order 
+to account for the added noise observed following amplification. However, it 
+would be too easy for the manufacturer's to simply provide $T_{rx}$, so instead 
+we'll start from a noise figure $NF$ instead. Using 
+Eq.~\eqref{eq:noise-figure}, we can calculate the noise factor $F$. For a 
+single amplifier, we can then find the noise temperature using 
+Eq.~\eqref{noise-temp} with $T_0$ typically being set to a room temperature 
+value of 290 K.
+
 \begin{equation}
     \label{eq:noise-figure}
     NF = 10 \log_{10}(F)
@@ -89,6 +102,34 @@ spectrum for each recording.
 \begin{equation}
     \label{eq:noise-temp}
     F = \frac{T_0 + T}{T_0}
+\end{equation}
+
+In the case of the Rangely testing, two amplifiers were used in a chain. In 
+this scenario, a final equation is needed to calculate the full receiver noise 
+temperature, which accounts for the gain of the first amplifier on the effect 
+of the amplifier noise contributions of the second amplifier. 
+
+\begin{equation}
+    \label{eq:receiver-temp}
+    T_{rx} = T_1 + \frac{T_2}{g_1}
+\end{equation}
+
+The Rangely signal chain featured two identical amplifiers, each with a noise 
+factor $NF = 11$ dB and a gain $g = 23$ dB. This led to a final receiver 
+temperature of 3377 K across the band.
+
+Ideally, we would like for our overall system temperature to be dominated by a 
+known term, such as the galactic synchrotron emission.  
+
+\begin{equation}
+    \label{eq:sync-temp}
+    T_{sync}(\nu) = T_{sync}(\textrm{150 MHz}) \left(\frac{\nu}{\textrm{150 
+    MHz}}\right)^{-\beta}
+\end{equation}
+
+\begin{equation}
+    \label{eq:dB-to-sky}
+    \textrm{dB} = 10 \log\left(\frac{T_{sys}}{T_{sync}}\right)
 \end{equation}
 
 
