@@ -1,8 +1,0 @@
-\begin{thebibliography}{}
-\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-
-\bibitem[{{Kundert}(2016)}]{kundert2016}
-{Kundert}, K. 2016, The Relationship Between System Temperature and Sky Beam
-  Coverage, Memo~1, HYPERION
-
-\end{thebibliography}
