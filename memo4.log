@@ -1,0 +1,450 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.8.24)  20 SEP 2017 12:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**memo4.tex
+(./memo4.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks20
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip55
+\bibsep=\skip56
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count101
+) (./memo4.aux)
+\openout1 = `memo4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen114
+\scratchbox=\box30
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen115
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] [2]
+</home/kara/src/python/berkeley/plotters/noise_floor_rangely.png, id=21, 912.04
+74pt x 735.7086pt>
+File: /home/kara/src/python/berkeley/plotters/noise_floor_rangely.png Graphic f
+ile (type png)
+
+<use /home/kara/src/python/berkeley/plotters/noise_floor_rangely.png>
+Package pdftex.def Info: /home/kara/src/python/berkeley/plotters/noise_floor_ra
+ngely.png used on input line 153.
+(pdftex.def)             Requested size: 469.75499pt x 378.93346pt.
+ [3]
+[4 </home/kara/src/python/berkeley/plotters/noise_floor_rangely.png>]
+(./memo4.bbl [5])
+</home/kara/documents/hyperion/memos/memo4/plots/101.jpeg, id=33, 1211.52625pt 
+x 577.15625pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/101.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/101.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/101.jp
+eg used on input line 281.
+(pdftex.def)             Requested size: 469.75499pt x 223.78664pt.
+
+</home/kara/documents/hyperion/memos/memo4/plots/102.jpeg, id=34, 1257.69875pt 
+x 642.4pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/102.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/102.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/102.jp
+eg used on input line 294.
+(pdftex.def)             Requested size: 469.75499pt x 239.93878pt.
+
+[6 </home/kara/documents/hyperion/memos/memo4/plots/101.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/103.jpeg, id=38, 1190.4475pt x
+ 599.23875pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/103.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/103.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/103.jp
+eg used on input line 309.
+(pdftex.def)             Requested size: 469.75499pt x 236.4544pt.
+
+[7 </home/kara/documents/hyperion/memos/memo4/plots/102.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/104.jpeg, id=43, 1197.47375pt 
+x 599.23875pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/104.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/104.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/104.jp
+eg used on input line 326.
+(pdftex.def)             Requested size: 469.75499pt x 235.07372pt.
+
+[8 </home/kara/documents/hyperion/memos/memo4/plots/103.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/105.jpeg, id=47, 1315.91624pt 
+x 624.3325pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/105.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/105.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/105.jp
+eg used on input line 343.
+(pdftex.def)             Requested size: 469.75499pt x 222.87328pt.
+
+[9 </home/kara/documents/hyperion/memos/memo4/plots/104.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/106.jpeg, id=51, 1306.8825pt x
+ 647.41875pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/106.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/106.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/106.jp
+eg used on input line 362.
+(pdftex.def)             Requested size: 469.75499pt x 232.70505pt.
+
+[10 </home/kara/documents/hyperion/memos/memo4/plots/105.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/200.jpeg, id=55, 1294.8375pt x
+ 630.355pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/200.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/200.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/200.jp
+eg used on input line 385.
+(pdftex.def)             Requested size: 469.75499pt x 228.68779pt.
+
+[11 </home/kara/documents/hyperion/memos/memo4/plots/106.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/201.jpeg, id=59, 1395.2125pt x
+ 648.4225pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/201.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/201.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/201.jp
+eg used on input line 401.
+(pdftex.def)             Requested size: 469.75499pt x 218.3137pt.
+
+</home/kara/documents/hyperion/memos/memo4/plots/202.jpeg, id=60, 1277.77374pt 
+x 649.42625pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/202.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/202.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/202.jp
+eg used on input line 415.
+(pdftex.def)             Requested size: 469.75499pt x 238.74799pt.
+
+[12 </home/kara/documents/hyperion/memos/memo4/plots/200.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/203.jpeg, id=64, 1330.9725pt x
+ 675.52374pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/203.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/203.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/203.jp
+eg used on input line 437.
+(pdftex.def)             Requested size: 469.75499pt x 238.41592pt.
+
+[13 </home/kara/documents/hyperion/memos/memo4/plots/201.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/204.jpeg, id=69, 1302.8675pt x
+ 665.48625pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/204.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/204.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/204.jp
+eg used on input line 456.
+(pdftex.def)             Requested size: 469.75499pt x 239.94043pt.
+
+[14 </home/kara/documents/hyperion/memos/memo4/plots/202.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/205.jpeg, id=73, 1368.11125pt 
+x 677.53125pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/205.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/205.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/205.jp
+eg used on input line 475.
+(pdftex.def)             Requested size: 469.75499pt x 232.63199pt.
+
+[15 </home/kara/documents/hyperion/memos/memo4/plots/203.jpeg>] [16 </home/kara
+/documents/hyperion/memos/memo4/plots/204.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/107.jpeg, id=80, 1279.78125pt 
+x 609.27625pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/107.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/107.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/107.jp
+eg used on input line 497.
+(pdftex.def)             Requested size: 469.75499pt x 223.64369pt.
+
+[17 </home/kara/documents/hyperion/memos/memo4/plots/205.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/108.jpeg, id=84, 1276.77pt x 6
+35.37375pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/108.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/108.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/108.jp
+eg used on input line 513.
+(pdftex.def)             Requested size: 469.75499pt x 233.76608pt.
+
+[18 </home/kara/documents/hyperion/memos/memo4/plots/107.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/109.jpeg, id=88, 1321.93875pt 
+x 657.45625pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/109.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/109.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/109.jp
+eg used on input line 528.
+(pdftex.def)             Requested size: 469.75499pt x 233.62431pt.
+
+[19 </home/kara/documents/hyperion/memos/memo4/plots/108.jpeg>]
+</home/kara/documents/hyperion/memos/memo4/plots/110.jpeg, id=93, 1316.92pt x 6
+69.50125pt>
+File: /home/kara/documents/hyperion/memos/memo4/plots/110.jpeg Graphic file (ty
+pe jpg)
+ <use /home/kara/documents/hyperion/memos/memo4/plots/110.jpeg>
+Package pdftex.def Info: /home/kara/documents/hyperion/memos/memo4/plots/110.jp
+eg used on input line 545.
+(pdftex.def)             Requested size: 469.75499pt x 238.81366pt.
+
+[20 </home/kara/documents/hyperion/memos/memo4/plots/109.jpeg>] [21 </home/kara
+/documents/hyperion/memos/memo4/plots/110.jpeg>] (./memo4.aux) ) 
+Here is how much of TeX's memory you used:
+ 3054 strings out of 494946
+ 42740 string characters out of 6180981
+ 100112 words of memory out of 5000000
+ 6274 multiletter control sequences out of 15000+600000
+ 13991 words of font info for 54 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,10n,43p,1059b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on memo4.pdf (21 pages, 3692134 bytes).
+PDF statistics:
+ 139 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
