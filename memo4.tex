@@ -49,12 +49,17 @@ Rangely, CO}
 \maketitle
 \sloppy
 
-\section{Introduction}
+\section{Abstract}
 
-This memo lays out the results of some initial radio environment testing in and 
-around Rangely, Colorado. It also aims to lay out some analysis of what these 
-results mean for the HYPERION instrument and suggests some new ideas for 
-mitigation of environmental factors.
+Radio environment is an extremely important aspect of Epoch of Reionization 
+studies, as the signals are so much quieter than even most celestial sources. 
+This memo aims to lay out the results of some initial radio environment testing 
+in and around Rangely, Colorado. It also aims to lay out some analysis of what 
+these results mean for the HYPERION instrument and suggests some new ideas for 
+mitigation of environmental factors. These tests conclude that the radio 
+environment around Rangely, CO makes it an ideal candidate for deployment for 
+HYPERION. It also finds that local topological features can be used to 
+effectively attenuate RFI signals.
 
 \section{Background and Theory}
 
@@ -397,7 +402,7 @@ HYPERION experiment.
     \end{center}
     \caption{
         Pictured above is the radio environment from 0-150 MHz as measured from 
-        City Road 2, with the dipole mounted in the back of a pick-up truck.  
+        County Road 2, with the dipole mounted in the back of a pick-up truck.  
         The strongest RFI sources in this spectrum have amplitudes of more than 
         0 dBm and a maximum noise floor ranging between -30 and -20 dBm, making 
           this a marginally better spectrum than the data set shown in the 
@@ -410,9 +415,22 @@ HYPERION experiment.
     \includegraphics[width=\linewidth]{/home/kara/documents/hyperion/memos/memo4/plots/202.jpeg}
     \end{center}
     \caption{
-        NOTE: I CAN'T READ THESE NOTES, I DON'T KNOW WHAT THIS MEASUREMENT IS
-    }
-    \label{fig:202}
+        Pictured above is the radio environment from 0-150 MHz as measured from 
+        County Road 2 traveling southwest up the hill towards Banta Ridge and 
+        the White River, with the dipole mounted in the back of a pick-up 
+        truck.  In this observation, there are power lines to the south that 
+        may be acting as interferers. The spectrum has a maximum noise floor 
+        ranging between -30 and -20 dBm, and no consistent sources of RFI.  
+        However, looking at the average spectrum, a plateau of emission appears 
+        between about 90-110 MHz with an amplitude of approximately -20 dBm 
+        that is not visible in either the maximum or minimum spectra.
+        Most of the RFI sources in the spectra appear to be transient, only 
+        appearing in one of the spectra and not the others.  The strongest 
+        source of RFI has an amplitude of approximately 0 dBm at a frequency of 
+        approximately 130 MHz, but only appears in the maximum spectra and not 
+        in either the minimum or average, implying transience.
+        }
+        \label{fig:202}
 \end{figure}
 \begin{figure}[H]
     \begin{center}
@@ -430,7 +448,6 @@ HYPERION experiment.
         observation, and the consistent sources only have a max amplitude of 
         approximately -10 dBm. Even in this very noisy data set, it's already 
         apparent that Cottonwood Canyon could be a promising deployment site.
-        NOTE: ALSO STRUGGLING TO READ THIS
     }
     \label{fig:203}
 \end{figure}
